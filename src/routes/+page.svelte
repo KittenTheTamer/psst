@@ -92,7 +92,7 @@
 </div>
 
 <style>
-  #pikmin {
+  #psst {
     display: flex;
     flex-direction: column;
     align-items: center;
