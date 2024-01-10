@@ -48,7 +48,7 @@
 
 <div id="psst">
   <h1>psst .</h1>
-  <p>click play button for instanteous paranoia/p>
+  <p>click play button for instanteous paranoia</p>
     <img src={psst} alt="screech" height="374" width="344" />
   <button on:click={() => handlePlayPause()}
     ><svg width="104" height="104" id="pause">
