@@ -49,6 +49,8 @@
 <div id="psst">
   <h1>psst .</h1>
   <p>click play button for instanteous paranoia</p>
+<p>oh if you were wondering. basically this website plays the 'psst' sound at random intervals once you press the button here. pretty cool</p>
+<p>inspired by pikmin-party.fowlie.dev</p>
     <img src={psst} alt="screech" height="374" width="344" />
   <button on:click={() => handlePlayPause()}
     ><svg width="104" height="104" id="pause">
